@@ -104,9 +104,9 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http:172.31.3.213:4000//repository/paypal-snapshot/</url>
+	      <url>http://3.99.215.169:4000/content/repositories/ebay-bts-snapshot/</url>
 	    </snapshotRepository>
-	    
+	
 	</distributionManagement>
 	
 	<build>
